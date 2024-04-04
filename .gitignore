@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Conso.API/Conso.API/bin/Debug/net8.0
+/src/Conso.API/Conso.API/obj
+/src/Conso.API/Conso.Contracts.Internal/bin/Debug/net8.0
+/src/Conso.API/Conso.Contracts.Internal/obj
+/src/Conso.API/Conso.Core/bin/Debug/net8.0
+/src/Conso.API/Conso.Core/obj
+/src/Conso.API/Conso.Core.Interfaces/bin/Debug/net8.0
+/src/Conso.API/Conso.Core.Interfaces/obj
+/src/Conso.API/Conso.Providers/bin/Debug/net8.0
+/src/Conso.API/Conso.Providers/obj
+/src/Conso.API/Conso.Providers.Interfaces/bin/Debug/net8.0
+/src/Conso.API/Conso.Providers.Interfaces/obj
+/src/Conso.API/Conso.Test/bin/Debug/net8.0
+/src/Conso.API/Conso.Test/obj
