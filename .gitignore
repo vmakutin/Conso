@@ -16,3 +16,7 @@
 /src/Conso.API/Conso.Providers.Interfaces/obj
 /src/Conso.API/Conso.Test/bin/Debug/net8.0
 /src/Conso.API/Conso.Test/obj
+/.vs
+/src/Conso.API/.vs/Conso.API/FileContentIndex
+/src/Conso.API/Conso.Test/bin/Release/net8.0
+/src/Conso.API/.vs/Conso.API/v17
