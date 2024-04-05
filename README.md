@@ -1,6 +1,6 @@
 # Conso.API
 
-This is example of implementation of integration tests for ASP.Net Web Api endpoint with authentication
+This is example of implementation of integration tests for ASP.Net Web Api endpoint with fake authentication
 
 ## ConsoEndpointTest.cs
 
